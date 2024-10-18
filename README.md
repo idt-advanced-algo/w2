@@ -8,7 +8,7 @@
 
 ## 2. Instructions
 
-In this exercise, you are required to define a Hero class in the Hero.hpp file. Once the class is defined, implement the logic in main.cpp to test if the Hero class is functioning as expected.
+In this exercise, you are required to define a Hero class in the [utils/Hero.hpp](./utils/Hero.hpp) file. Once the class is defined, implement the logic in [main.cpp](./main.cpp) to test if the Hero class is functioning as expected.
 
 ### Hero Class Specifications
 
